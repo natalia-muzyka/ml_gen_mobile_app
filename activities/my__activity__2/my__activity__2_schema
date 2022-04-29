@@ -1,6 +1,7 @@
 {
   "@context": [
-    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json",
+    "https://raw.githubusercontent.com/natalia-muzyka/ml_gen_mobile_app/main/activities/my__activity__2/my__activity__2_context"
   ],
   "@id": "my activity 2",
   "@type": "reproschema:Activity",
