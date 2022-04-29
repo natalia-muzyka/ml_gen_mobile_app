@@ -1,0 +1,30 @@
+{
+  "name": "Screen17",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/grajeQvhSnKThr3BVCxz76.jpeg     =250x250)\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?\n",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen17",
+  "skos:prefLabel": "Screen17",
+  "skos:altLabel": "Screen17",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "duration",
+    "allow": [
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "timeDuration": "hours mins secs "
+  }
+}

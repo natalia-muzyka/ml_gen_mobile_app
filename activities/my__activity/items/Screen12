@@ -1,0 +1,29 @@
+{
+  "name": "Screen12",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/6PTSy3osiLsvxDqYFDwh3z.jpeg    =250x250)\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n\n",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen12",
+  "skos:prefLabel": "Screen12",
+  "skos:altLabel": "Screen12",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "ageSelector"
+  },
+  "responseOptions": {
+    "schema:minAge": 30,
+    "schema:maxAge": 105,
+    "removeBackOption": true
+  }
+}

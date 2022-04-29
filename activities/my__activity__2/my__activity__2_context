@@ -1,0 +1,78 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "Screen1": {
+      "@id": "my__activity__2:Screen1",
+      "@type": "@id"
+    },
+    "Screen3": {
+      "@id": "my__activity__2:Screen3",
+      "@type": "@id"
+    },
+    "Screen5": {
+      "@id": "my__activity__2:Screen5",
+      "@type": "@id"
+    },
+    "Screen2__1__1": {
+      "@id": "my__activity__2:Screen2__1__1",
+      "@type": "@id"
+    },
+    "Screen7": {
+      "@id": "my__activity__2:Screen7",
+      "@type": "@id"
+    },
+    "Screen9": {
+      "@id": "my__activity__2:Screen9",
+      "@type": "@id"
+    },
+    "Screen11": {
+      "@id": "my__activity__2:Screen11",
+      "@type": "@id"
+    },
+    "Screen13": {
+      "@id": "my__activity__2:Screen13",
+      "@type": "@id"
+    },
+    "Screen15": {
+      "@id": "my__activity__2:Screen15",
+      "@type": "@id"
+    },
+    "Screen17": {
+      "@id": "my__activity__2:Screen17",
+      "@type": "@id"
+    },
+    "Screen21": {
+      "@id": "my__activity__2:Screen21",
+      "@type": "@id"
+    },
+    "Screen23": {
+      "@id": "my__activity__2:Screen23",
+      "@type": "@id"
+    },
+    "Screen25": {
+      "@id": "my__activity__2:Screen25",
+      "@type": "@id"
+    },
+    "Screen27": {
+      "@id": "my__activity__2:Screen27",
+      "@type": "@id"
+    },
+    "Screen29": {
+      "@id": "my__activity__2:Screen29",
+      "@type": "@id"
+    },
+    "Screen31": {
+      "@id": "my__activity__2:Screen31",
+      "@type": "@id"
+    },
+    "Screen33": {
+      "@id": "my__activity__2:Screen33",
+      "@type": "@id"
+    },
+    "Screen18__1__1": {
+      "@id": "my__activity__2:Screen18__1__1",
+      "@type": "@id"
+    },
+    "my__activity__2": "https://raw.githubusercontent.com/YOUR-PATH-TO-ITEM-FOLDER"
+  }
+}

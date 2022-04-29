@@ -1,0 +1,96 @@
+{
+  "name": "Screen1",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/ir3AfFmxqsEzMo4TK5iLSn.jpeg     =250x250)\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen1",
+  "skos:prefLabel": "Screen1",
+  "skos:altLabel": "Screen1",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "radio",
+    "allow": [
+      "autoAdvance",
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "valueType": "xsd:anyURI",
+    "enableNegativeTokens": false,
+    "scoring": true,
+    "responseAlert": false,
+    "randomizeOptions": true,
+    "removeBackOption": false,
+    "colorPalette": false,
+    "multipleChoice": false,
+    "schema:minValue": 1,
+    "schema:maxValue": 6,
+    "choices": [
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 1",
+        "schema:value": 0,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n\n",
+        "schema:score": 1
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 2",
+        "schema:value": 1,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 2
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 3",
+        "schema:value": 2,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 3
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 4",
+        "schema:value": 3,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 4
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 5",
+        "schema:value": 4,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 5
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 0",
+        "schema:value": 5,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 0
+      }
+    ]
+  }
+}

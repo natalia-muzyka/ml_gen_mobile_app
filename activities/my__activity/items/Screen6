@@ -1,0 +1,100 @@
+{
+  "name": "Screen6",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/maykk6ymkw3vAK3CoBWYAB.jpeg    =250x250)\r\n\r\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 90000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen6",
+  "skos:prefLabel": "Screen6",
+  "skos:altLabel": "Screen6",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "slider"
+  },
+  "responseOptions": {
+    "valueType": "xsd:integer",
+    "scoring": false,
+    "removeBackOption": true,
+    "responseAlert": true,
+    "continousSlider": true,
+    "tickLabel": false,
+    "textAnchors": false,
+    "tickMark": false,
+    "schema:minValue": "Lorem ipsum dolor si",
+    "schema:maxValue": "Nullam at egestas",
+    "schema:minValueImg": "https://mindlogger-applet-contents.s3.amazonaws.com/image/ovRcyPkHuPz2k3juZU5i5g.jpeg",
+    "schema:maxValueImg": "https://mindlogger-applet-contents.s3.amazonaws.com/image/pWx4Aa6p4bcAF3xTVG4Jjr.jpeg",
+    "choices": [
+      {
+        "schema:name": "0",
+        "schema:value": 0,
+        "schema:alert": false,
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/ovRcyPkHuPz2k3juZU5i5g.jpeg"
+      },
+      {
+        "schema:name": "1",
+        "schema:value": 1,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "2",
+        "schema:value": 2,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "3",
+        "schema:value": 3,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "4",
+        "schema:value": 4,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "5",
+        "schema:value": 5,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "6",
+        "schema:value": 6,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "7",
+        "schema:value": 7,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "8",
+        "schema:value": 8,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "9",
+        "schema:value": 9,
+        "schema:alert": false
+      },
+      {
+        "schema:name": "10",
+        "schema:value": 10,
+        "schema:alert": false,
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/pWx4Aa6p4bcAF3xTVG4Jjr.jpeg"
+      }
+    ],
+    "minAlertValue": 0,
+    "maxAlertValue": 5,
+    "responseAlertMessage": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Screen10",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/hDRFzTaUgnY4sDDfC2KKTQ.jpeg  =250x250)\r\n\r\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.Lorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 30000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen10",
+  "skos:prefLabel": "Screen10",
+  "skos:altLabel": "Screen10",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "date"
+  },
+  "responseOptions": {
+    "valueType": "xsd:date",
+    "requiredValue": true,
+    "schema:maxValue": "new Date()",
+    "removeBackOption": true,
+    "isOptionalTextRequired": true
+  }
+}

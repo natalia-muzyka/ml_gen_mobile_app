@@ -1,0 +1,30 @@
+{
+  "name": "Screen27",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/d81jjHcsrPqXdpRPwWByMJ.png      =250x250)\r\n\r\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": true,
+  "isOptionalText": true,
+  "timer": 60000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen27",
+  "skos:prefLabel": "Screen27",
+  "skos:altLabel": "Screen27",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "audioRecord"
+  },
+  "responseOptions": {
+    "removeBackOption": true,
+    "schema:maxValue": "10000",
+    "schema:minValue": 0,
+    "isOptionalTextRequired": true
+  }
+}

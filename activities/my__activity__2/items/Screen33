@@ -1,0 +1,46 @@
+{
+  "name": "Screen33",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/k8VXzxH33joKN3W9Bt5ss5.png     =250x250)\r\n\r\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": true,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen33",
+  "skos:prefLabel": "Screen33",
+  "skos:altLabel": "Screen33",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "audioStimulus"
+  },
+  "responseOptions": {
+    "removeBackOption": false
+  },
+  "inputOptions": [
+    {
+      "schema:name": "stimulus",
+      "schema:value": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3",
+      "schema:contentUrl": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3",
+      "@type": "http://schema.org/URL"
+    },
+    {
+      "schema:name": "allowReplay",
+      "schema:value": true,
+      "@type": "http://schema.org/Boolean"
+    }
+  ],
+  "media": {
+    "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3": {
+      "schema:name": "stimulus",
+      "schema:contentUrl": "https://filesamples.com/samples/audio/mp3/Symphony%20No.6%20(1st%20movement).mp3"
+    }
+  }
+}

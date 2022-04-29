@@ -1,0 +1,139 @@
+{
+  "name": "Screen4",
+  "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 30000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen4",
+  "skos:prefLabel": "Screen4",
+  "skos:altLabel": "Screen4",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "radio"
+  },
+  "responseOptions": {
+    "valueType": "xsd:anyURI",
+    "enableNegativeTokens": false,
+    "scoring": false,
+    "responseAlert": true,
+    "randomizeOptions": false,
+    "removeBackOption": true,
+    "colorPalette": true,
+    "multipleChoice": true,
+    "schema:minValue": 1,
+    "schema:maxValue": 10,
+    "isOptionalTextRequired": true,
+    "choices": [
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 1",
+        "schema:value": 0,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#B71C1C",
+        "schema:description": "1. qwerty \n2. asdfg\n\n![image link](https://dummyimage.com/600x400/d2d43f/fff.jpg)\n\n",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/oo6GfmKDEmVDF2onr1DADv.jpeg",
+        "schema:alert": "my activity chbox option 1"
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 2",
+        "schema:value": 1,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#E3F7FB",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/hmfame126ixse82TmpFKUc.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 3",
+        "schema:value": 2,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#cbedf4",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/bcrdx6araJeEssnS8jHc39.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 4",
+        "schema:value": 3,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#E3F7FB",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/vyh2TAyQe94XLXM9b7WsTb.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 5",
+        "schema:value": 4,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#cbedf4",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/qr3VjH8QS45WhR4DVRKNHh.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 6",
+        "schema:value": 5,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#880E4F",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/e9HYwHad71uStEi3PdB3Yr.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 7",
+        "schema:value": 6,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#cbedf4",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/foR5FMibZmc9PKZQpsukKf.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 8",
+        "schema:value": 7,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#E3F7FB",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/527GZxnhwsKgRzQEyayuA2.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 9",
+        "schema:value": 8,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#cbedf4",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/aB3vzBBVKc6Dx4mu3ky39v.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 10",
+        "schema:value": 9,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#311B92",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/aKCnH2nzztZNDwb6hoHirZ.jpeg",
+        "schema:alert": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Screen13",
+  "question": "[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?\n\n**Sed ut perspiciatis** \n*unde omnis* \n# iste natus error \n## sit voluptatem accusantium \n### doloremque laudantium, \n#### totam rem aperiam, eaque ipsa quae \n##### ab illo inventore veritatis et quasi\n###### architecto beatae vitae dicta sunt \n++explicabo. Nemo enim ipsam++\n~~voluptatem quia voluptas sit~~ ==aspernatur aut odit aut fugit,== sed^quia^ conseq~uuntur~ \n::: hljs-left\n\nmagni dolores\n\n:::\n ::: hljs-center\n\neos qui\n\n:::\n ::: hljs-right\n\nvoluptatem sequi nesciunt.\n\n:::\n > Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed \n\n1. quia \n2. non \n3. numquam \n\n- eius modi tempora\n-  incidunt ut labore \n- et dolore magnam aliquam quaerat \n\n[url](https://ru.lipsum.com/). \n\n![1920.jpg](https://mindlogger-applet-contents.s3.amazonaws.com/images/5foaJnF1bdGUbnbHr9S8LT.jpeg)\n\n```\n<i>hello world</i>\n\n\n```\n|column1|column2|column3|\n|-|-|-|\n|content1|content2|content3|\n|content1|content2|content3|\n|content1|content2|content3|\n\n![](https://mindlogger-applet-contents.s3.amazonaws.com/images/wo13iuJFitndrvzK2nTDhA.mp4)\n\naudio url\n![audio url](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3)\n\nuploaded audio file\n![](https://mindlogger-applet-contents.s3.amazonaws.com/images/mFsTjoGEGk2s8D69abYugH.mpeg)\n",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 100000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen13",
+  "skos:prefLabel": "Screen13",
+  "skos:altLabel": "Screen13",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "markdownMessage"
+  },
+  "responseOptions": {
+    "removeBackOption": false
+  }
+}

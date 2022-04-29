@@ -1,0 +1,39 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json",
+    "https://raw.githubusercontent.com/YOUR-PROTOCOL-CONTEXT-FILE"
+  ],
+  "@type": "reproschema:Protocol",
+  "_id": "62582f473646a059f4f06333",
+  "@id": "My applet (mobile app)_schema",
+  "skos:prefLabel": "My applet (mobile app)",
+  "schema:description": "My applet description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. N",
+  "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/fHJBwcKF2cXso4ksSu3hG4.jpeg",
+  "schema:watermark": "https://mindlogger-applet-contents.s3.amazonaws.com/image/pLDEhVGLg46mYgTX1KnnJd.png",
+  "schema:schemaVersion": "2.8.20",
+  "schema:version": "2.8.20",
+  "landingPageContent": "**Sed ut perspiciatis** \n*unde omnis* \n# iste natus error \n## sit voluptatem accusantium \n### doloremque laudantium, \n#### totam rem aperiam, eaque ipsa quae \n##### ab illo inventore veritatis et quasi\n###### architecto beatae vitae dicta sunt \n++explicabo. Nemo enim ipsam++\n~~voluptatem quia voluptas sit~~ ==aspernatur aut odit aut fugit,== sed^quia^ conseq~uuntur~ \n::: hljs-left\n\nmagni dolores\n\n:::\n ::: hljs-center\n\neos qui\n\n:::\n ::: hljs-right\n\nvoluptatem sequi nesciunt.\n\n:::\n > Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed \n\n1. quia \n2. non \n3. numquam \n\n- eius modi tempora\n-  incidunt ut labore \n- et dolore magnam aliquam quaerat \n\n[url](https://ru.lipsum.com/). \n\n![1920.jpg](https://mindlogger-applet-contents.s3.amazonaws.com/images/5foaJnF1bdGUbnbHr9S8LT.jpeg)\n\n```\n<i>hello world</i>\n\n\n```\n|column1|column2|column3|\n|-|-|-|\n|content1|content2|content3|\n|content1|content2|content3|\n|content1|content2|content3|\n\n![](https://mindlogger-applet-contents.s3.amazonaws.com/images/wo13iuJFitndrvzK2nTDhA.mp4)\n\naudio url\n![audio url](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3)\n\nuploaded audio file\n![](https://mindlogger-applet-contents.s3.amazonaws.com/images/mFsTjoGEGk2s8D69abYugH.mpeg)\n",
+  "landingPageType": "markdown",
+  "landingPage": "",
+  "ui": {
+    "addProperties": [
+      {
+        "variableName": "my__activity",
+        "isAbout": "my__activity",
+        "prefLabel": "my activity",
+        "isVis": true
+      },
+      {
+        "variableName": "my__activity__2",
+        "isAbout": "my__activity__2",
+        "prefLabel": "my activity 2",
+        "isVis": true
+      }
+    ],
+    "order": [
+      "my__activity",
+      "my__activity__2"
+    ],
+    "shuffle": false
+  }
+}

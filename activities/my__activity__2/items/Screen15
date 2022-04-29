@@ -1,0 +1,69 @@
+{
+  "name": "Screen15",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/3BHmWF3FKS9W7Dj8PdREe9.jpeg    =250x250)\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen15",
+  "skos:prefLabel": "Screen15",
+  "skos:altLabel": "Screen15",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "dropdownList",
+    "allow": [
+      "autoAdvance",
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "valueType": "xsd:anyURI",
+    "enableNegativeTokens": false,
+    "scoring": false,
+    "responseAlert": false,
+    "randomizeOptions": false,
+    "colorPalette": false,
+    "multipleChoice": false,
+    "schema:minValue": 1,
+    "schema:maxValue": 4,
+    "choices": [
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 1",
+        "schema:value": 0,
+        "schema:color": "",
+        "schema:description": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 2",
+        "schema:value": 1,
+        "schema:color": "",
+        "schema:description": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 3",
+        "schema:value": 2,
+        "schema:color": "",
+        "schema:description": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 4",
+        "schema:value": 3,
+        "schema:color": "",
+        "schema:description": ""
+      }
+    ]
+  }
+}

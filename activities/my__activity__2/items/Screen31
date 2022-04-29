@@ -1,0 +1,27 @@
+{
+  "name": "Screen31",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/hrhSA1fsb3xHpFfsrYMYLW.jpeg     =250x250)\r\n\r\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": true,
+  "isOptionalText": true,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen31",
+  "skos:prefLabel": "Screen31",
+  "skos:altLabel": "Screen31",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "geolocation"
+  },
+  "responseOptions": {
+    "removeBackOption": false
+  }
+}

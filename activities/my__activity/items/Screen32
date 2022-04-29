@@ -1,0 +1,48 @@
+{
+  "name": "Screen32",
+  "question": "Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen32",
+  "skos:prefLabel": "Screen32",
+  "skos:altLabel": "Screen32",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "audioStimulus",
+    "allow": [
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "removeBackOption": true
+  },
+  "inputOptions": [
+    {
+      "schema:name": "stimulus",
+      "schema:value": "https://mindlogger-applet-contents.s3.amazonaws.com/audio/6Po7JhtsctndYopAsQSM3q.wav",
+      "schema:contentUrl": "https://mindlogger-applet-contents.s3.amazonaws.com/audio/6Po7JhtsctndYopAsQSM3q.wav",
+      "@type": "http://schema.org/URL"
+    },
+    {
+      "schema:name": "allowReplay",
+      "@type": "http://schema.org/Boolean"
+    }
+  ],
+  "media": {
+    "https://mindlogger-applet-contents.s3.amazonaws.com/audio/6Po7JhtsctndYopAsQSM3q.wav": {
+      "schema:name": "stimulus",
+      "schema:contentUrl": "https://mindlogger-applet-contents.s3.amazonaws.com/audio/6Po7JhtsctndYopAsQSM3q.wav"
+    }
+  }
+}

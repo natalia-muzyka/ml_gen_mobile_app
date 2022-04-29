@@ -1,0 +1,37 @@
+{
+  "name": "Screen25",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/dpyZmaKX3F6eXMSYSU4Z9c.jpeg     =250x250)\r\n\r\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien. Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": true,
+  "isOptionalText": true,
+  "timer": 120000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen25",
+  "skos:prefLabel": "Screen25",
+  "skos:altLabel": "Screen25",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "drawing"
+  },
+  "responseOptions": {
+    "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/b4KPdAmL9ht18GQqCtcsbY.jpeg",
+    "removeBackOption": false,
+    "removeUndoOption": false,
+    "topNavigationOption": true
+  },
+  "inputOptions": [
+    {
+      "schema:name": "backgroundImage",
+      "schema:value": "https://mindlogger-applet-contents.s3.amazonaws.com/image/xzkND9sox57JvyJgJSR1y3.jpeg",
+      "@type": "http://schema.org/URL"
+    }
+  ]
+}

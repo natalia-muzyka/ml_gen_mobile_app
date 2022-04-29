@@ -1,0 +1,32 @@
+{
+  "name": "Screen11",
+  "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen11",
+  "skos:prefLabel": "Screen11",
+  "skos:altLabel": "Screen11",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "ageSelector",
+    "allow": [
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "schema:minAge": 1,
+    "schema:maxAge": 30,
+    "removeBackOption": false
+  }
+}

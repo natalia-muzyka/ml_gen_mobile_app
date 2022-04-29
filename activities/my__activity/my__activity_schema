@@ -1,0 +1,143 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@id": "my activity",
+  "@type": "reproschema:Activity",
+  "skos:prefLabel": "my activity",
+  "skos:altLabel": "my activity",
+  "schema:description": "my activity description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "schema:splash": "https://mindlogger-applet-contents.s3.amazonaws.com/video_or_image/itojE14Ls25TZ2N58BR63W.jpeg",
+  "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/dzMQ9qHMiHTv9TtKZtrWSs.jpeg",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "preamble": "",
+  "isReviewerActivity": false,
+  "isOnePageAssessment": false,
+  "scoringLogic": {},
+  "repronim:timeUnit": "yearmonthdate",
+  "isPrize": false,
+  "isVis": false,
+  "ui": {
+    "order": [
+      "Screen2",
+      "Screen4",
+      "Screen6",
+      "Screen2__1",
+      "Screen8",
+      "Screen10",
+      "Screen12",
+      "Screen14",
+      "Screen16",
+      "Screen18",
+      "Screen20",
+      "Screen22",
+      "Screen24",
+      "Screen26",
+      "Screen28",
+      "Screen30",
+      "Screen32",
+      "Screen18__1"
+    ],
+    "shuffle": false,
+    "addProperties": [
+      {
+        "variableName": "Screen2",
+        "isAbout": "Screen2",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen4",
+        "isAbout": "Screen4",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen6",
+        "isAbout": "Screen6",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen2__1",
+        "isAbout": "Screen2__1",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen8",
+        "isAbout": "Screen8",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen10",
+        "isAbout": "Screen10",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen12",
+        "isAbout": "Screen12",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen14",
+        "isAbout": "Screen14",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen16",
+        "isAbout": "Screen16",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen18",
+        "isAbout": "Screen18",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen20",
+        "isAbout": "Screen20",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen22",
+        "isAbout": "Screen22",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen24",
+        "isAbout": "Screen24",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen26",
+        "isAbout": "Screen26",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen28",
+        "isAbout": "Screen28",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen30",
+        "isAbout": "Screen30",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen32",
+        "isAbout": "Screen32",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen18__1",
+        "isAbout": "Screen18__1",
+        "isVis": true
+      }
+    ],
+    "allow": []
+  },
+  "subScales": [],
+  "finalSubScale": [],
+  "hasResponseIdentifier": false,
+  "compute": [],
+  "messages": [],
+  "scoreOverview": "### Lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam at egestas \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n\n![8.jpg](https://mindlogger-applet-contents.s3.amazonaws.com/images/vkEWKzAtRy7v9NLSrmxfeT.jpeg)\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n\n|column1|column2|column3|\n|-|-|-|\n|content1|content2|content3|\n|content1|content2|content3|\n|content1|content2|content3|\n|content1|content2|content3|\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n\n"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Screen18__1__1",
+  "question": "Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen18__1__1",
+  "skos:prefLabel": "Screen18__1__1",
+  "skos:altLabel": "Screen18__1__1",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "audioStimulus"
+  },
+  "responseOptions": {
+    "removeBackOption": false
+  },
+  "inputOptions": [
+    {
+      "schema:name": "stimulus",
+      "schema:value": "https://mindlogger-applet-contents.s3.amazonaws.com/audio/j2B8zaCzy4Tdn2Kwrq737M.mpeg",
+      "schema:contentUrl": "https://mindlogger-applet-contents.s3.amazonaws.com/audio/j2B8zaCzy4Tdn2Kwrq737M.mpeg",
+      "@type": "http://schema.org/URL"
+    },
+    {
+      "schema:name": "allowReplay",
+      "schema:value": true,
+      "@type": "http://schema.org/Boolean"
+    }
+  ],
+  "media": {
+    "https://mindlogger-applet-contents.s3.amazonaws.com/audio/j2B8zaCzy4Tdn2Kwrq737M.mpeg": {
+      "schema:name": "stimulus",
+      "schema:contentUrl": "https://mindlogger-applet-contents.s3.amazonaws.com/audio/j2B8zaCzy4Tdn2Kwrq737M.mpeg"
+    }
+  }
+}

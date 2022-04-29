@@ -1,0 +1,141 @@
+{
+  "name": "Screen2",
+  "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 10000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen2",
+  "skos:prefLabel": "Screen2",
+  "skos:altLabel": "Screen2",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "radio",
+    "allow": [
+      "autoAdvance"
+    ]
+  },
+  "responseOptions": {
+    "valueType": "xsd:anyURI",
+    "enableNegativeTokens": false,
+    "scoring": false,
+    "responseAlert": true,
+    "randomizeOptions": true,
+    "removeBackOption": false,
+    "colorPalette": true,
+    "multipleChoice": false,
+    "schema:minValue": 1,
+    "schema:maxValue": 10,
+    "choices": [
+      {
+        "@type": "schema:option",
+        "schema:name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+        "schema:value": 0,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#b5feef",
+        "schema:description": "*Lorem* ipsum dolor sit amet, **consectetur** adipiscing elit. Nullam at egestas.\n![8.jpg](https://mindlogger-applet-contents.s3.amazonaws.com/images/n8qCBv35fHKEKLGTJVrJMY.jpeg)\n\n",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/3mZnNF46sT8A21gGNQCyan.jpeg",
+        "schema:alert": "my activitiy radio otion 1"
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+        "schema:value": 1,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#68e5a8",
+        "schema:description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n\n",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/oE1Z84yqBjDsfsET6j5H4E.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 3",
+        "schema:value": 2,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#faf193",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/q8X3P6gp9JqufsecyVsZWu.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 4",
+        "schema:value": 3,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#fabd93",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/tW6foajp8xU2diSpwT3eKp.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 5",
+        "schema:value": 4,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#f17688",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/t8WVSTBeU24jNQNhNeUyNc.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 6",
+        "schema:value": 5,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#fbe1e3",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/dU69Qg6VeG2Rbus1ERS17s.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 7",
+        "schema:value": 6,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#ece592",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/pF6AhpK4thpgoU8qEua5XD.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 8",
+        "schema:value": 7,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#b5feef",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/tqp68hopXJgKMtm18nLNVq.jpeg",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 9",
+        "schema:value": 8,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#68e5a8",
+        "schema:description": "",
+        "schema:image": "https://dummyimage.com/600x400/d2d43f/fff.png",
+        "schema:alert": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 10",
+        "schema:value": 9,
+        "reprolib:terms/isVis": false,
+        "schema:color": "#faf193",
+        "schema:description": "",
+        "schema:image": "https://mindlogger-applet-contents.s3.amazonaws.com/image/ciswf5eUqmjisiB3ckbYF4.jpeg",
+        "schema:alert": ""
+      }
+    ]
+  }
+}

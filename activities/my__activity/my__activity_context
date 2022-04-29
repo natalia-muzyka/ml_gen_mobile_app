@@ -1,0 +1,78 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "Screen2": {
+      "@id": "my__activity:Screen2",
+      "@type": "@id"
+    },
+    "Screen4": {
+      "@id": "my__activity:Screen4",
+      "@type": "@id"
+    },
+    "Screen6": {
+      "@id": "my__activity:Screen6",
+      "@type": "@id"
+    },
+    "Screen2__1": {
+      "@id": "my__activity:Screen2__1",
+      "@type": "@id"
+    },
+    "Screen8": {
+      "@id": "my__activity:Screen8",
+      "@type": "@id"
+    },
+    "Screen10": {
+      "@id": "my__activity:Screen10",
+      "@type": "@id"
+    },
+    "Screen12": {
+      "@id": "my__activity:Screen12",
+      "@type": "@id"
+    },
+    "Screen14": {
+      "@id": "my__activity:Screen14",
+      "@type": "@id"
+    },
+    "Screen16": {
+      "@id": "my__activity:Screen16",
+      "@type": "@id"
+    },
+    "Screen18": {
+      "@id": "my__activity:Screen18",
+      "@type": "@id"
+    },
+    "Screen20": {
+      "@id": "my__activity:Screen20",
+      "@type": "@id"
+    },
+    "Screen22": {
+      "@id": "my__activity:Screen22",
+      "@type": "@id"
+    },
+    "Screen24": {
+      "@id": "my__activity:Screen24",
+      "@type": "@id"
+    },
+    "Screen26": {
+      "@id": "my__activity:Screen26",
+      "@type": "@id"
+    },
+    "Screen28": {
+      "@id": "my__activity:Screen28",
+      "@type": "@id"
+    },
+    "Screen30": {
+      "@id": "my__activity:Screen30",
+      "@type": "@id"
+    },
+    "Screen32": {
+      "@id": "my__activity:Screen32",
+      "@type": "@id"
+    },
+    "Screen18__1": {
+      "@id": "my__activity:Screen18__1",
+      "@type": "@id"
+    },
+    "my__activity": "https://raw.githubusercontent.com/YOUR-PATH-TO-ITEM-FOLDER"
+  }
+}

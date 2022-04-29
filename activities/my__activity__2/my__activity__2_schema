@@ -1,0 +1,143 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@id": "my activity 2",
+  "@type": "reproschema:Activity",
+  "skos:prefLabel": "my activity 2",
+  "skos:altLabel": "my activity 2",
+  "schema:description": "my activity 2 ",
+  "schema:splash": "",
+  "schema:image": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "preamble": "",
+  "isReviewerActivity": false,
+  "isOnePageAssessment": false,
+  "scoringLogic": {},
+  "repronim:timeUnit": "yearmonthdate",
+  "isPrize": false,
+  "isVis": false,
+  "ui": {
+    "order": [
+      "Screen1",
+      "Screen3",
+      "Screen5",
+      "Screen2__1__1",
+      "Screen7",
+      "Screen9",
+      "Screen11",
+      "Screen13",
+      "Screen15",
+      "Screen17",
+      "Screen21",
+      "Screen23",
+      "Screen25",
+      "Screen27",
+      "Screen29",
+      "Screen31",
+      "Screen33",
+      "Screen18__1__1"
+    ],
+    "shuffle": false,
+    "addProperties": [
+      {
+        "variableName": "Screen1",
+        "isAbout": "Screen1",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen3",
+        "isAbout": "Screen3",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen5",
+        "isAbout": "Screen5",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen2__1__1",
+        "isAbout": "Screen2__1__1",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen7",
+        "isAbout": "Screen7",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen9",
+        "isAbout": "Screen9",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen11",
+        "isAbout": "Screen11",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen13",
+        "isAbout": "Screen13",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen15",
+        "isAbout": "Screen15",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen17",
+        "isAbout": "Screen17",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen21",
+        "isAbout": "Screen21",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen23",
+        "isAbout": "Screen23",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen25",
+        "isAbout": "Screen25",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen27",
+        "isAbout": "Screen27",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen29",
+        "isAbout": "Screen29",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen31",
+        "isAbout": "Screen31",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen33",
+        "isAbout": "Screen33",
+        "isVis": true
+      },
+      {
+        "variableName": "Screen18__1__1",
+        "isAbout": "Screen18__1__1",
+        "isVis": true
+      }
+    ],
+    "allow": []
+  },
+  "subScales": [],
+  "finalSubScale": [],
+  "hasResponseIdentifier": true,
+  "compute": [],
+  "messages": [],
+  "scoreOverview": ""
+}

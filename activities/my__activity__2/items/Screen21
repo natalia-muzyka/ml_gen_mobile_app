@@ -1,0 +1,27 @@
+{
+  "name": "Screen21",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/9x9r6YGJMLmYdSbKmh5dSd.jpeg     =250x250)\r\n\r\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n\nPraesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.\n\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": true,
+  "isOptionalText": true,
+  "timer": 60000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen21",
+  "skos:prefLabel": "Screen21",
+  "skos:altLabel": "Screen21",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "photo"
+  },
+  "responseOptions": {
+    "removeBackOption": true
+  }
+}

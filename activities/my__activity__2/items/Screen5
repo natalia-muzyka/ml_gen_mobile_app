@@ -1,0 +1,73 @@
+{
+  "name": "Screen5",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/pof2DEYmaQRmYWtBQ9EHiF.jpeg     =250x250)\r\n\r\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen5",
+  "skos:prefLabel": "Screen5",
+  "skos:altLabel": "Screen5",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "slider",
+    "allow": [
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "valueType": "xsd:integer",
+    "scoring": true,
+    "removeBackOption": false,
+    "responseAlert": false,
+    "continousSlider": false,
+    "tickLabel": true,
+    "textAnchors": true,
+    "tickMark": true,
+    "schema:minValue": "Lorem ipsum dolor si",
+    "schema:maxValue": "Nullam at egestas",
+    "schema:minValueImg": "",
+    "schema:maxValueImg": "",
+    "choices": [
+      {
+        "schema:name": "0",
+        "schema:value": 0,
+        "schema:score": 0
+      },
+      {
+        "schema:name": "1",
+        "schema:value": 1,
+        "schema:score": 1
+      },
+      {
+        "schema:name": "2",
+        "schema:value": 2,
+        "schema:score": 2
+      },
+      {
+        "schema:name": "3",
+        "schema:value": 3,
+        "schema:score": 3
+      },
+      {
+        "schema:name": "4",
+        "schema:value": 4,
+        "schema:score": 4
+      },
+      {
+        "schema:name": "5",
+        "schema:value": 5,
+        "schema:score": 5
+      }
+    ]
+  }
+}

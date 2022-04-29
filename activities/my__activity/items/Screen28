@@ -1,0 +1,31 @@
+{
+  "name": "Screen28",
+  "question": "Praesent malesuada neque dolor, ut commodo eros rhoncus eu. Vivamus sapien.",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen28",
+  "skos:prefLabel": "Screen28",
+  "skos:altLabel": "Screen28",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "audioImageRecord",
+    "allow": [
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "removeBackOption": true,
+    "schema:image": "https://www.dropbox.com/s/wgtjq3bgqlfhbzd/map3g.png?raw=1"
+  }
+}

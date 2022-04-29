@@ -1,0 +1,27 @@
+{
+  "name": "Screen8",
+  "question": "\r\n\r\n![''](https://mindlogger-applet-contents.s3.amazonaws.com/image/ddusxYgrKHT5aoTj4b6FtE.jpeg     =250x250)\r\n\r\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.\nLorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": true,
+  "timer": 90000,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen8",
+  "skos:prefLabel": "Screen8",
+  "skos:altLabel": "Screen8",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "timeRange"
+  },
+  "responseOptions": {
+    "removeBackOption": true
+  }
+}

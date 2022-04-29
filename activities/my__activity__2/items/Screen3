@@ -1,0 +1,95 @@
+{
+  "name": "Screen3",
+  "question": "\r\n\r\n![''](https://dummyimage.com/600x400/d2d43f/fff.jpg     =250x250)\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen3",
+  "skos:prefLabel": "Screen3",
+  "skos:altLabel": "Screen3",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "radio",
+    "allow": [
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "valueType": "xsd:anyURI",
+    "enableNegativeTokens": false,
+    "scoring": true,
+    "responseAlert": false,
+    "randomizeOptions": true,
+    "removeBackOption": false,
+    "colorPalette": false,
+    "multipleChoice": true,
+    "schema:minValue": 1,
+    "schema:maxValue": 6,
+    "choices": [
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 1",
+        "schema:value": 0,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 1
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 2",
+        "schema:value": 1,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 2
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 3",
+        "schema:value": 2,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 3
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 4",
+        "schema:value": 3,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 4
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 5",
+        "schema:value": 4,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 5
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Option 0",
+        "schema:value": 5,
+        "reprolib:terms/isVis": false,
+        "schema:color": "",
+        "schema:description": "",
+        "schema:score": 0
+      }
+    ]
+  }
+}

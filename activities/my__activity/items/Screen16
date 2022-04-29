@@ -1,0 +1,66 @@
+{
+  "name": "Screen16",
+  "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen16",
+  "skos:prefLabel": "Screen16",
+  "skos:altLabel": "Screen16",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "dropdownList"
+  },
+  "responseOptions": {
+    "valueType": "xsd:anyURI",
+    "enableNegativeTokens": false,
+    "scoring": false,
+    "responseAlert": false,
+    "randomizeOptions": false,
+    "colorPalette": false,
+    "multipleChoice": true,
+    "schema:minValue": 1,
+    "schema:maxValue": 4,
+    "isOptionalTextRequired": false,
+    "choices": [
+      {
+        "@type": "schema:option",
+        "schema:name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+        "schema:value": 0,
+        "schema:color": "",
+        "schema:description": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+        "schema:value": 1,
+        "schema:color": "",
+        "schema:description": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+        "schema:value": 2,
+        "schema:color": "",
+        "schema:description": ""
+      },
+      {
+        "@type": "schema:option",
+        "schema:name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.",
+        "schema:value": 3,
+        "schema:color": "",
+        "schema:description": ""
+      }
+    ]
+  }
+}

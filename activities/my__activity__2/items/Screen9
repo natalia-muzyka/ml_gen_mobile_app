@@ -1,0 +1,33 @@
+{
+  "name": "Screen9",
+  "question": "Lorem ipsum dolor sit amet consectetur adipiscing elit Nullam at egestas Lorem ipsum dolor sit amet consectetur adipiscing elit.\n[Time_Elapsed_Activity_Last_Completed]\n[Time_Activity_Last_Completed] to [Now]\nHi, [Nickname]! How are you?",
+  "description": "",
+  "isVis": false,
+  "isOptionalText": false,
+  "timer": 0,
+  "allowEdit": true,
+  "@context": [
+    "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "Screen9",
+  "skos:prefLabel": "Screen9",
+  "skos:altLabel": "Screen9",
+  "schema:description": "",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "header": "",
+  "section": "",
+  "ui": {
+    "inputType": "date",
+    "allow": [
+      "dontKnow"
+    ]
+  },
+  "responseOptions": {
+    "valueType": "xsd:date",
+    "requiredValue": true,
+    "schema:maxValue": "new Date()",
+    "removeBackOption": false
+  }
+}
