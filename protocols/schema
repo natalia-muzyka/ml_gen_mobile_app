@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://raw.githubusercontent.com/jj105/reproschema-context/master/context.json",
-    "https://raw.githubusercontent.com/YOUR-PROTOCOL-CONTEXT-FILE"
+    "https://raw.githubusercontent.com/natalia-muzyka/ml_gen_mobile_app/main/protocols/context"
   ],
   "@type": "reproschema:Protocol",
   "_id": "62582f473646a059f4f06333",
