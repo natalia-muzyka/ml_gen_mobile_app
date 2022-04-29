@@ -4,7 +4,6 @@
     "https://raw.githubusercontent.com/natalia-muzyka/ml_gen_mobile_app/main/protocols/context"
   ],
   "@type": "reproschema:Protocol",
-  "_id": "62582f473646a059f4f06333",
   "@id": "My applet (mobile app)_schema",
   "skos:prefLabel": "My applet (mobile app)",
   "schema:description": "My applet description Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at egestas.Lorem ipsum dolor sit amet, consectetur adipiscing elit. N",
