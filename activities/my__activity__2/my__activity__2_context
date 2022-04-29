@@ -73,6 +73,6 @@
       "@id": "my__activity__2:Screen18__1__1",
       "@type": "@id"
     },
-    "my__activity__2": "https://raw.githubusercontent.com/natalia-muzyka/ml_gen_mobile_app/main/activities/my__activity__2/items"
+    "my__activity__2": "https://raw.githubusercontent.com/natalia-muzyka/ml_gen_mobile_app/main/activities/my__activity__2/items/"
   }
 }
